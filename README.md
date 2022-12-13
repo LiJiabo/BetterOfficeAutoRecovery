@@ -25,6 +25,7 @@ launchctl load plist文件的路径
 ---
 1. Clone this repository
 2. **CHANGE THE PATH in red rectangle below to actual path**
+   ![img/plist.png](img/plist.png)
 3. Open the terminal and run:
 ```zsh
 launchctl load /path/to/plist
